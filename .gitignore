@@ -1,0 +1,47 @@
+*/**/node_modules
+
+# Serverless directories
+maratonafc3-microsservico-pagamentos/.serverless
+# golang output binary directory
+maratonafc3-microsservico-pagamentos/bin
+# golang vendor (dependencies) directory
+maratonafc3-microsservico-pagamentos/vendor
+# Binaries for programs and plugins
+maratonafc3-microsservico-pagamentos/*.exe
+maratonafc3-microsservico-pagamentos/*.exe~
+maratonafc3-microsservico-pagamentos/*.dll
+maratonafc3-microsservico-pagamentos/*.so
+maratonafc3-microsservico-pagamentos/*.dylib
+# Test binary, build with `go test -c`
+maratonafc3-microsservico-pagamentos/*.test
+# Output of the go coverage tool, specifically when used with LiteIDE
+maratonafc3-microsservico-pagamentos/*.out
+maratonafc3-microsservico-pagamentos/.idea/
+
+maratonafc3p-microsservico-assinaturas/vendor/
+maratonafc3p-microsservico-assinaturas/**/*.log
+maratonafc3p-microsservico-assinaturas/**/*.sqlite
+maratonafc3p-microsservico-assinaturas/.idea/
+maratonafc3p-microsservico-assinaturas/bin/
+maratonafc3p-microsservico-assinaturas/tmp/
+maratonafc3p-microsservico-assinaturas/node_modules/
+maratonafc3p-microsservico-assinaturas/.sass-cache/
+maratonafc3p-microsservico-assinaturas/*-packr.go
+maratonafc3p-microsservico-assinaturas/public/assets/
+maratonafc3p-microsservico-assinaturas/.vscode/
+maratonafc3p-microsservico-assinaturas/.grifter/
+maratonafc3p-microsservico-assinaturas/.env
+maratonafc3p-microsservico-assinaturas/**/.DS_Store
+maratonafc3p-microsservico-assinaturas/*.pid
+maratonafc3p-microsservico-assinaturas/coverage
+maratonafc3p-microsservico-assinaturas/coverage.data
+maratonafc3p-microsservico-assinaturas/.svn
+maratonafc3p-microsservico-assinaturas/.console_history
+maratonafc3p-microsservico-assinaturas/.sass-cache/*
+maratonafc3p-microsservico-assinaturas/.jhw-cache/
+maratonafc3p-microsservico-assinaturas/jhw.*
+maratonafc3p-microsservico-assinaturas/*.sublime*
+maratonafc3p-microsservico-assinaturas/dist/
+maratonafc3p-microsservico-assinaturas/generated/
+maratonafc3p-microsservico-assinaturas/.vendor/
+maratonafc3p-microsservico-assinaturas/.pgdata/
